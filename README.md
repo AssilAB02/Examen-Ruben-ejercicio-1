@@ -1,3 +1,5 @@
+# link del repositorio: https://github.com/AssilAB02/Examen-Ruben-ejercicio-1.git
+
 ## Explicación del Código
 
 El proyecto consta de varias clases que trabajan juntas para gestionar elementos y kits de mobiliario modular. Aquí está una explicación de las clases principales:
